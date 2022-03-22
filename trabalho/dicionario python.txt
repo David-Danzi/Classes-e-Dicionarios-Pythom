@@ -1,0 +1,37 @@
+[
+ {
+  "id": 1,
+  "material": "ferro",
+  "origem": "china",
+  "peso": 300,
+  "quantidade": 1
+ },
+ {
+  "id": 2,
+  "material": "aco",
+  "origem": "brasil",
+  "peso": 300,
+  "quantidade": 2
+ },
+ {
+  "id": 3,
+  "material": "aluminio",
+  "origem": "china",
+  "peso": 350,
+  "quantidade": 1
+ },
+ {
+  "id": 4,
+  "material": "ferro",
+  "origem": "alemanha",
+  "peso": 350,
+  "quantidade": 1
+ },
+ {
+  "id": 5,
+  "material": "aco",
+  "origem": "china",
+  "peso": 350,
+  "quantidade": 1
+ }
+]
